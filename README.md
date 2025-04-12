@@ -1,2 +1,2 @@
 # Mini-Project-Kalkulator
-Kalkulaor Dengan Hml Css Javascript Sederhana
+Kalkulator Dengan Hml Css Javascript Sederhana
